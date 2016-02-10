@@ -1,0 +1,5 @@
+const uint8_t LostWoods1[] = "t\x96""v\x0f""l\x08""r\x01""fab\x04""fab\x04""fab>ed\x04""<b>c<bge\x02""rdege\x02""r\x04""fab\x04""fab\x04""fab>ed\x04""<b>cge<b\x02""r>e<bge\x02""r\x04""fga\x04""b>cd\x04""<bge\x02""r\x04""def\x04""gab\x04"">cde\x02""r\x04""<fga\x04""b>cd\x04""<bge\x02""r\x04""gfagba>c<b>dcedfeg\x10""fd\x10""e\x04"".l\x10""eee\x04""eee\x04""eee\x08""e\x08""f\x02""";  //166
+const uint8_t LostWoods2[] = "t\x96""v\x0a""l\x08""r\x01""<faaafaaacgggcgggfaaafaaacgggcgggfaaafaaacgggcgggfaaafaaacgggcgggdfffdfffecccecccdfffdfffecccecccdfffdfffecccecccdcedfegfagba>c<b>d\x10""c\x08""<a\x10""b\x04"".l\x10""bbb\x04""bbb\x04""bbb\x08""b\x08"">c\x02""";  //168
+
+const uint8_t* LostWoods[] = {LostWoods1,LostWoods2};
+//{2,(uint8_t**)LostWoods}
